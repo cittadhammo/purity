@@ -1,0 +1,14 @@
+[book]
+title = "The Purity Paradox: Why We Sacrifice Utility for Ideology—and How to Reclaim Pragmatism"
+authors = []
+description = "Four essays on ideological purity, moral contagion, and pragmatic utility—from neurobiology and evolutionary psychology to historical and structural defenses of pluralism."
+language = "en"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+default-theme = "navy"
+preferred-dark-theme = "navy"
+smart-punctuation = true
