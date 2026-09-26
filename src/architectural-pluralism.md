@@ -19,9 +19,9 @@ Open-source ecosystems thrive on **functional minimalism**. When a project limit
 
 Because modern social platforms encourage outrage through engagement-based ranking, technical platforms must adjust incentive structures:
 
-\[ Outrage-Based Design \]   ──\> Amplifies High-Arousal Conflict ──\> Enforces Purity  
-                                         VS.  
-\[ Pluralistic-Based Design \] ──\> Friction-Based Interaction   ──\> Protects Utility
+> **Outrage-Based Design:** Amplifies High-Arousal Conflict → Enforces Purity
+>
+> **Pluralistic-Based Design:** Friction-Based Interaction → Protects Utility
 
 * **Bridging Algorithms (Bridging-Based Ranking):** Research from the *Stanford Deliberative Democracy Lab* and the *Taiwanese g0v open-gov initiative* demonstrates that algorithms can be designed to promote consensus rather than division. Systems like *Pol.is* highlight comments that receive agreement across opposing factions rather than amplifying high-arousal, divisive posts.  
 * **Friction and Moderation Isolation:** Introducing intentional friction—such as restricting issue tracker discussions strictly to reproducible technical bugs and locking meta-discussions—prevents comment sections from becoming arenas for public denunciation.
@@ -58,9 +58,9 @@ In digital spaces, moral purists rely on public conflict and emotional arousal t
 
 In game theory, Robert Axelrod's famous tournament on the *Iterated Prisoner's Dilemma* proved that the most effective long-term strategy for cooperation is **Tit-for-Tat with Forgiveness**:
 
-\[ Default State \] ──\> Start Cooperative (Use best tool / collaborate pragmatically)  
-\[ If Attacked \]   ──\> Retaliate Firmly (Enforce personal boundaries / ignore bad faith)  
-\[ If Peace Offered\] ─\> Forgive Immediately (Return to pragmatic baseline)
+- **Default State** → Start Cooperative (Use best tool / collaborate pragmatically)
+- **If Attacked** → Retaliate Firmly (Enforce personal boundaries / ignore bad faith)
+- **If Peace Offered** → Forgive Immediately (Return to pragmatic baseline)
 
 By remaining default-cooperative and focusing purely on functional execution, pragmatists maintain open channels for productive work while drawing firm boundaries against bad-faith attacks.
 

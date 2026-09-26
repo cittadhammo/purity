@@ -51,7 +51,7 @@ Historians of 20th-century authoritarianism, such as Hannah Arendt and Ian Kersh
 
 The social mechanism preceded the legal state mechanism:
 
-\[Moral Contagion\] ──\> \[Public Ostracization / Boycott\] ──\> \[Enforced Conformity\] ──\> \[Institutional Purges\]
+> Moral Contagion → Public Ostracization / Boycott → Enforced Conformity → Institutional Purges
 
 ## IV. The Modern Irony: Anti-Fascist Rhetoric via Authoritarian Dynamics
 

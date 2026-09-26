@@ -12,7 +12,7 @@ If a tribe consisted entirely of pragmatists (\~80% of the population), free-rid
 
 To solve this, human evolution favored a specialized sub-population equipped for **altruistic punishment**:
 
-\[ Free-Rider Threat \] ──\> \[ Altruistic Punisher (5-10%) \] ──\> \[ Incurs Personal Cost to Enforce Norm \] ──\> \[ Group Survival \]
+> Free-Rider Threat → Altruistic Punisher (5-10%) → Incurs Personal Cost to Enforce Norm → Group Survival
 
 As evolutionary economists Ernst Fehr and Joseph Henrich demonstrated, altruistic punishers are individuals willing to incur personal costs—social friction, lost trade opportunities, or physical danger—to punish non-conformists. By acting as a cultural immune system, this hyper-vigilant minority deters defectors and protects group cohesion, allowing the broader pragmatic majority to focus on productive survival tasks.
 
@@ -45,11 +45,11 @@ To an individual with a hyper-sensitive behavioral immune system, an "impure" ob
 
 The central conflict of modern purity culture is a classic case of **evolutionary mismatch**—a scenario where an evolved adaptation becomes maladaptive due to rapid changes in the environment.
 
-\[ Prehistoric Environment \] ──\> Small Band (150 people) ──\> High Stakes (Life/Death) ──\> Purist Enforcement Works  
-                                         │  
-                                         ▼ (Mismatch)  
-                                         │  
-\[ Modern Digital Network \]  ──\> Global Echo Chambers   ──\> Zero Material Cost   ──\> Hyper-Amplified Outrage
+> **Prehistoric Environment:** Small Band (150 people) → High Stakes (Life/Death) → Purist Enforcement Works
+>
+> ▼ *Evolutionary Mismatch*
+>
+> **Modern Digital Network:** Global Echo Chambers → Zero Material Cost → Hyper-Amplified Outrage
 
 In a prehistoric band of 150 people, hyper-vigilance was constrained by real-world risk. An over-zealous enforcer who falsely accused allies risked exile or retaliation.
 

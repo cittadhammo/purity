@@ -8,8 +8,8 @@ Emerging empirical research across neuroscience, political sociology, and media 
 
 At the cognitive level, the human brain processes pragmatic choices and moral directives through entirely different neural pathways. Brain-imaging studies (fMRI) examining decision-making reveal a fundamental neurobiological split:
 
-\[ Pragmatic Choice \] ──\> Prefrontal Cortex & Striatum ──\> Cost-Benefit Analysis (Utility)  
-\[ Sacred Value \]    ──\> Temporoparietal Junction      ──\> Moral Rule Compliance (Purity)
+- **Pragmatic Choice** → Prefrontal Cortex & Striatum → Cost-Benefit Analysis (Utility)
+- **Sacred Value** → Temporoparietal Junction → Moral Rule Compliance (Purity)
 
 1. **The Utility Pathway:** Pragmatic evaluation—assessing whether software is fast, whether a tool is durable, or whether a piece of art is compelling—is mediated primarily by the *prefrontal cortex* and *striatum*. These regions handle comparative trade-offs, resource allocation, and logical reasoning.  
 2. **The Sacred Value Pathway:** When an issue or artifact becomes bound to an individual’s identity, decision-making shifts away from cost-benefit regions to the *right temporoparietal junction* and the *amygdala*. These structures govern moral rule compliance, emotional disgust, and group boundary protection.
@@ -20,20 +20,10 @@ When an issue transitions into the domain of "sacred values," the brain actively
 
 To quantify how widely these traits are distributed, the non-partisan research organization *More in Common* conducted a landmark demographic study titled *Hidden Tribes: America’s Polarized Landscape*. The study mapped populations based on behavioral metrics rather than basic party affiliation, revealing a stark structural divide:
 
-   ┌─────────────────────────────────────────────────────────┐  
-   │  Extreme Wings (\~13%–15%)                               │  
-   │  • High ideological rigidity                            │  
-   │  • Political identity central to self-concept           │  
-   │  • Intense internal pressure to enforce purity          │  
-   └───────────────────────────┬─────────────────────────────┘  
-                               │  
-                               ▼  
-   ┌─────────────────────────────────────────────────────────┐  
-   │  The Exhausted Majority (\~67%–75%)                      │  
-   │  • Utility-focused and pragmatic                        │  
-   │  • Disengaged from online moral policing               │  
-   │  • Silenced by social pressure                          │  
-   └─────────────────────────────────────────────────────────┘
+| Segment | Share | Defining Traits |
+| :--- | :--- | :--- |
+| **Extreme Wings** | ~13%–15% | High ideological rigidity; political identity central to self-concept; intense internal pressure to enforce purity |
+| **The Exhausted Majority** | ~67%–75% | Utility-focused and pragmatic; disengaged from online moral policing; silenced by social pressure |
 
 The empirical data yielded two critical insights regarding the purist demographic:
 
@@ -58,7 +48,7 @@ Studies from the *Reuters Institute for the Study of Journalism* show that while
 
 This creates a severe perceptual distortion known as the **False Consensus Effect**:
 
-\[ Vocal Minority Demands Purity \] ──\> \[ Pragmatic Majority Retreats \] ──\> \[ Illusion of Total Outrage \]
+> Vocal Minority Demands Purity → Pragmatic Majority Retreats → Illusion of Total Outrage
 
 Because the pragmatic majority chooses not to engage in combative comment sections, purists encounter little visible pushback. The resulting environment enforces a *Spiral of Silence*, making totalizing rejection appear far more mainstream than it actually is.
 
