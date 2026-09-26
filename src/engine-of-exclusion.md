@@ -1,6 +1,7 @@
 # The Engine of Exclusion: Empirical, Biological, and Network Drivers of Ideological Purity
 
-While historical analysis reveals the structural dangers of totalizing ideologies, a fundamental question remains: **Why does a specific subset of the population adopt this mindset?** When an individual rejects an open-source software distribution like *Omarchy* or boycotts consumer technology based on the personal statements of its creators, they are not acting in a vacuum. Instead, they are responding to a complex interplay of neurobiology, behavioral economics, and modern network architecture.  
+While historical analysis reveals the structural dangers of totalizing ideologies, a fundamental question remains: **Why does a specific subset of the population adopt this mindset?** When an individual rejects an open-source software distribution like *Omarchy* or boycotts consumer technology based on the personal statements of its creators, they are not acting in a vacuum. Instead, they are responding to a complex interplay of neurobiology, behavioral economics, and modern network architecture.
+
 Emerging empirical research across neuroscience, political sociology, and media studies demonstrates that the tendency to prioritize ideological purity over functional utility is driven by distinct biological mechanisms, socio-political dynamics, and algorithmic feedback loops.
 
 ## I. Neurobiology: The Shift from Utility to Sacred Values
@@ -53,7 +54,8 @@ Research from Yale University’s Social Cognitive Lab demonstrates that express
 
 ### 3\. Asymmetric Activity and the Spiral of Silence
 
-Studies from the *Reuters Institute for the Study of Journalism* show that while extreme purists constitute only a fraction of the population, they generate a vast majority of public online comments and political engagements.  
+Studies from the *Reuters Institute for the Study of Journalism* show that while extreme purists constitute only a fraction of the population, they generate a vast majority of public online comments and political engagements.
+
 This creates a severe perceptual distortion known as the **False Consensus Effect**:
 
 \[ Vocal Minority Demands Purity \] ──\> \[ Pragmatic Majority Retreats \] ──\> \[ Illusion of Total Outrage \]
@@ -62,5 +64,6 @@ Because the pragmatic majority chooses not to engage in combative comment sectio
 
 ## IV. Pragmatism as Cultural Resilience
 
-Understanding the biological, demographic, and technological drivers of purist behavior clarifies why this dynamic persists. The drive to ostracize functional products, tools, and art is not an accidental byproduct of modern tech culture; it is the predictable output of human neurobiology interacting with outrage-amplifying networks.  
+Understanding the biological, demographic, and technological drivers of purist behavior clarifies why this dynamic persists. The drive to ostracize functional products, tools, and art is not an accidental byproduct of modern tech culture; it is the predictable output of human neurobiology interacting with outrage-amplifying networks.
+
 Preventing digital communities from degrading into totalizing echo chambers requires an intentional defense of pragmatic utility. Recognizing that a tool's execution is separate from its creator's worldview is not a moral failing—it is a cognitive necessity for maintaining an open, functional, and pluralistic society.
