@@ -76,6 +76,6 @@ However, historical and structural evidence proves that authoritarian dynamics a
 
 **Sources**
 
-1\. [https://www.scribd.com/doc/170432093/Lecture-2-What-is-Politics?utm\_source=gemini](https://www.scribd.com/doc/170432093/Lecture-2-What-is-Politics?utm_source=gemini)
+1\. [https://www.scribd.com/doc/170432093/Lecture-2-What-is-Politics](https://www.scribd.com/doc/170432093/Lecture-2-What-is-Politics)
 
-2\. [https://www.scribd.com/doc/170432093/Lecture-2-What-is-Politics?utm\_source=gemini](https://www.scribd.com/doc/170432093/Lecture-2-What-is-Politics?utm_source=gemini)
+2\. [https://www.scribd.com/doc/170432093/Lecture-2-What-is-Politics](https://www.scribd.com/doc/170432093/Lecture-2-What-is-Politics)
